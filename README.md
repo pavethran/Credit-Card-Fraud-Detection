@@ -28,3 +28,7 @@ Credit-Card-Fraud-Detection/
 `pip install -r requirements.txt`  
 3. Run the Jupyter Notebook:  
 `jupyter notebook notebooks/fraud_detection.ipynb`
+
+# Dataset  
+Download from Kaggle: [PaySim Financial Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)  
+Place the CSV file here before running the code.  
